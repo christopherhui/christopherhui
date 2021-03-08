@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher Hui</h1>
-<h3 align="center">full-stack Software Developer  |  avid problem solver</h3>
+<h3 align="center">full-stack software developer  |  avid problem solver</h3>
 <h4 align="center"> Fourth year CS student at University of British Columbia</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=christopherhui&label=Profile%20views&color=0e75b6&style=flat" alt="christopherhui" /> </p>
 
