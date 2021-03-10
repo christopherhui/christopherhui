@@ -5,7 +5,7 @@
 
 - 🔭 I love competitive programming and a hackathon enthusiast
 
-- 👨‍🏫 Created <a href="ubcprofs.com">ubcprofs.com</a> to help students understand grade distributions of UBC instructors
+- 👨‍🏫 Created <a href="https://ubcprofs.com">ubcprofs.com</a> to help students understand grade distributions of UBC instructors
 
 - 🌱 Some of my interests include: 
   - swimming, skating, badminton
