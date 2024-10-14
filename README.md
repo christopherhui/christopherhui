@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Hui</h1>
 <h3 align="center">full-stack software developer  |  avid problem solver</h3>
-<h4 align="center"> Software Engineer at Citadel</h4>
+<h4 align="center"> Software Engineer at Stripe</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=christopherhui&label=Profile%20views&color=0e75b6&style=flat" alt="christopherhui" /> </p>
 
 - 🔭 I love competitive programming and a hackathon enthusiast
