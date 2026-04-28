@@ -16,14 +16,16 @@
 - 💬 Ask me about **React and Python**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/christophergkhui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christophergkhui" height="30" width="40" /></a>
-<a href="https://fb.com/christopher.hui.1865" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="christopher.hui.1865" height="30" width="40" /></a>
-<a href="https://instagram.com/its.quatchi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its.quatchi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/htmlbot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="htmlbot" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/christopherhui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="christopherhui" height="30" width="40" /></a>
-</p>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/christophergkhui)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/christopher.hui.1865)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/its.quatchi)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/htmlbot)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/christopherhui)
+
+</div>
 <!--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherhui&show_icons=true&locale=en&theme=tokyonight" alt="christopherhui" /></p>
 -->
